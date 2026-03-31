@@ -1,6 +1,6 @@
 # Hola, soy Derek Alfonzo (DaveroDev) 🇻🇪
 
-### Estudiante de Licenciatura en Informática (UDO) | Desarrollador & SysAdmin Enthusiast
+### Python Automation Developer & Web Specialist | Bilingual (EN/ES) | Desarrollador & SysAdmin Enthusiast
 
 Me enfoco en el desarrollo de software funcional y la optimización de entornos de trabajo. Mi enfoque principal es resolver problemas mediante automatización con **Python** y estructuración web profesional con **HTML/CSS/JS**.
 
