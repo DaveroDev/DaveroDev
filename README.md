@@ -22,7 +22,7 @@ No solo programo; gestiono mis propios sistemas. Tengo experiencia configurando 
 
 ### 💼 Freelance & Colaboraciones
 Estoy disponible para proyectos de automatización de datos, corrección de sitios web y configuración de sistemas Linux. 
-- **LinkedIn:** [Derek Alfonzo](https://www.linkedin.com/in/derek-alfonzo-reyes-1b94b0302) 
+- **LinkedIn:** [Derek Alfonzo](https://www.linkedin.com/in/derek-alfonzo-reyes-a727073b0/) 
 - **Hablemos sobre:** Optimización de PC, hardware, o por qué el software libre es el futuro.
 
 ### 💻 Lenguajes y Tecnologías
