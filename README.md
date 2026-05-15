@@ -16,14 +16,16 @@ No solo programo; gestiono mis propios sistemas. Tengo experiencia configurando 
 - **Tools:** Git/GitHub (Flujo de ramas profesional), VS Code, VirtualBox (Virtualización).
 
 ### 📁 Proyectos en los que estoy trabajando
-- **[Pequeños Genios](https://pequenosgeniosca.netlify.app):** Desarrollo y mantenimiento de la plataforma web para firma educativa.
+- [**Pequeños Genios**](https://pequenosgeniosca.netlify.app): Desarrollo y mantenimiento de la plataforma web para firma educativa.
 - **Automatización de Oficina:** Scripts en Python para procesamiento de archivos y reportes.
 - **Game Dev & Sound:** Proyectos experimentales en GameMaker y composición de motivos 8-bit.
 
 ### 💼 Freelance & Colaboraciones
-Estoy disponible para proyectos de automatización de datos, corrección de sitios web y configuración de sistemas Linux. 
-- **LinkedIn:** [Derek Alfonzo](https://www.linkedin.com/in/derek-alfonzo-reyes-a727073b0/) 
-- **Hablemos sobre:** Optimización de PC, hardware, o por qué el software libre es el futuro.
+Estoy disponible para proyectos de automatización de datos, optimización/despliegue web y configuración de sistemas Linux.
+
+- **LinkedIn:** [Derek Alfonzo](https://www.linkedin.com/in/derek-alfonzo-reyes-a727073b0/)
+- **Correo Electrónico:** [derekalfonzo364@gmail.com](mailto:derekalfonzo364@gmail.com)
+- **Hablemos sobre:** Optimización de PC, hardware, software libre o automatización de tareas.
 
 ### 💻 Lenguajes y Tecnologías
 
