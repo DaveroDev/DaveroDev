@@ -18,7 +18,8 @@ No solo programo; gestiono mis propios sistemas. Tengo experiencia configurando 
 ### 📁 Proyectos en los que estoy trabajando
 - [**Pequeños Genios**](https://pequenosgeniosca.netlify.app): Desarrollo y mantenimiento de la plataforma web para firma educativa.
 - **Automatización de Oficina:** Scripts en Python para procesamiento de archivos y reportes.
-- **Game Dev & Sound:** Proyectos experimentales en GameMaker y composición de motivos 8-bit.
+- **App de conversión de Tasas (BCV):** Actualmente desarrollando una app para conversiones de montos de USD, Bolivares o Euros usando la tasa de BCV.
+- **Game Dev & Sound:** Proyectos experimentales en GameMaker y composición 8-bit.
 
 ### 💼 Freelance & Colaboraciones
 Estoy disponible para proyectos de automatización de datos, optimización/despliegue web y configuración de sistemas Linux.
@@ -29,6 +30,6 @@ Estoy disponible para proyectos de automatización de datos, optimización/despl
 
 ### 💻 Lenguajes y Tecnologías
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
 *“Si funciona en mi máquina, es porque el entorno está bien configurado.”*
