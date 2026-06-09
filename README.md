@@ -6,7 +6,7 @@ Me enfoco en el desarrollo de software funcional y la optimización de entornos 
 
 ### 🐧 Especialista en Entornos Linux
 No solo programo; gestiono mis propios sistemas. Tengo experiencia configurando y optimizando diversas distribuciones para desarrollo y rendimiento, soy entusiasta de los sistemas operativos de código abierto y la emulación, así como manejo de máquinas virtuales:
-- **Nobara OS:** Mi entorno principal para desarrollo y gaming (especialista en drivers NVIDIA/GE).
+- **OmarchyOS:** Mi entorno principal para desarrollo y gaming (especialista en drivers NVIDIA/GE).
 - **MX Linux:** Implementación de sistemas ligeros y estables en entornos virtuales y hardware antiguo.
 - **Debian/Arch based:** Manejo fluido de terminal, gestión de paquetes y personalización de kernels.
 
