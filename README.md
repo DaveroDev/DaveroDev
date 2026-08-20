@@ -16,7 +16,6 @@ No solo programo; gestiono mis propios sistemas. Tengo experiencia configurando 
 - **Tools:** Git/GitHub (Flujo de ramas profesional), VS Code, VirtualBox (Virtualización).
 
 ### 📁 Proyectos en los que estoy trabajando
-- [**Pequeños Genios**](https://pequenosgeniosca.netlify.app): Desarrollo y mantenimiento de la plataforma web para firma educativa.
 - **Automatización de Oficina:** Scripts en Python para procesamiento de archivos y reportes.
 - **App de conversión de Tasas (BCV):** Actualmente desarrollando una app para conversiones de montos de USD, Bolivares o Euros usando la tasa de BCV.
 - **Game Dev & Sound:** Proyectos experimentales en GameMaker y composición 8-bit.
