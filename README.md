@@ -25,7 +25,7 @@ No solo programo; gestiono mis propios sistemas. Tengo experiencia configurando 
 Estoy disponible para proyectos de automatización de datos, optimización/despliegue web y configuración de sistemas Linux.
 
 - **LinkedIn:** [Derek Alfonzo](https://www.linkedin.com/in/derek-alfonzo-reyes-a727073b0/)
-- **Correo Electrónico:** [derekalfonzo364@gmail.com](mailto:derekalfonzo364@gmail.com)
+- **Correo Electrónico:** [daverodev@proton.me](mailto:daverodev@proton.me)
 - **Hablemos sobre:** Optimización de PC, hardware, software libre o automatización de tareas.
 
 ### 💻 Lenguajes y Tecnologías
