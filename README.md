@@ -1,4 +1,4 @@
-# Hola, soy DaveroDev 🇻🇪
+# Hola, soy DaveroDev
 
 ### Python Automation Developer & Web Specialist | Bilingual (EN/ES) | Desarrollador & SysAdmin Enthusiast
 
